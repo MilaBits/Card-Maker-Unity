@@ -43,6 +43,17 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CardUI.cs" t="Include" />
+          <e p="Enums" t="Include">
+            <e p="CriticalType.cs" t="Include" />
+            <e p="Phase.cs" t="Include" />
+            <e p="Role.cs" t="Include" />
+            <e p="RollType.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="Card.cs" t="Include" />
+          </e>
+          <e p="WindowManager.cs" t="Include" />
           <e p="Zoomer.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
