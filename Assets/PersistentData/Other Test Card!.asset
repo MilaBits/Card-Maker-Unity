@@ -11,18 +11,18 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_GeneratorAsset: {fileID: 0}
   m_Script: {fileID: 11500000, guid: 4bcf739e2f06e824c81b74813e121634, type: 3}
-  m_Name: Test Card
+  m_Name: Other Test Card!
   m_EditorClassIdentifier: 
-  Name: Bunny Girl
-  Summary: This is a scary bunny girl!
-  Description: Grrrrr i bite!
-  RollTarget: Roll
-  RollType: 3
-  RollText: Hop hop flop
+  Name: Woofer
+  Summary: Real good boy
+  Description: Grrrrr i lick!
+  RollTarget: The petemy
+  RollType: 1
+  RollText: Wuff~
   CriticalType: 2
-  FirstEffect: Monch
+  FirstEffect: +5 love
   SecondEffect: 
-  MainRole: 1
-  SecondaryRoles: 12
+  MainRole: 4
+  SecondaryRoles: 8
   Cost: 2
   Image: {fileID: 0}
